@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatlaborT53", "PatlaborT53\PatlaborT53.vcxproj", "{7C22505B-4370-4F3D-8A9B-66C10839FE14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Debug|x64.ActiveCfg = Debug|x64
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Debug|x64.Build.0 = Debug|x64
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Debug|x86.Build.0 = Debug|Win32
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Release|x64.ActiveCfg = Release|x64
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Release|x64.Build.0 = Release|x64
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Release|x86.ActiveCfg = Release|Win32
+		{7C22505B-4370-4F3D-8A9B-66C10839FE14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53A60DA-A450-4931-B7F5-C6B3F603924B}
+	EndGlobalSection
+EndGlobal

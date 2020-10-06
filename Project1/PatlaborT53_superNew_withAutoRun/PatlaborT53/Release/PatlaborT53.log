@@ -1,0 +1,88 @@
+﻿  CubemapShader.cpp
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.h(13,2): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.cpp(134,20): warning C4018: '<': signed/unsigned 不相符
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.cpp(349,25): warning C4018: '<': signed/unsigned 不相符
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.cpp(351,26): warning C4018: '<': signed/unsigned 不相符
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.cpp(462,20): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  main.cpp
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\CubemapShader.h(13,2): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(250,20): warning C4018: '<': signed/unsigned 不相符
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(385,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(440,21): warning C4018: '<': signed/unsigned 不相符
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(480,49): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(488,63): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(494,64): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(500,60): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(508,65): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(514,66): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(520,60): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(528,61): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(534,62): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(540,61): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(548,63): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(554,62): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(560,61): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(590,10): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(621,21): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(625,21): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(881,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(904,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1078,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1093,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1109,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1124,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1153,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1168,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1183,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1198,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1234,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1262,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1290,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1318,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1346,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1374,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1401,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1422,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1434,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1445,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1454,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1466,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1472,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1479,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1485,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1499,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1511,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1522,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1580,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1623,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1659,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1660,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1674,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1675,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1757,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1765,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1772,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1779,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1786,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1793,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1801,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1845,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1853,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1860,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1867,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1874,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1881,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1889,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(1932,26): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(2059,26): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(2512,25): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\main.cpp(2525,25): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  objloader.cpp
+D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\PatlaborT53\objloader.cpp(166,20): warning C4477: 'fscanf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'std::string'
+LINK : warning LNK4098: 預設的程式庫 'LIBCMT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  正在產生程式碼
+  Compiler version has changed, fall back to full compilation.
+  All 758 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+glew32s.lib(glew.obj) : warning LNK4099: 找不到 PDB 'glew_static.pdb' (有 'glew32s.lib(glew.obj)' 或位於 'D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\Release\glew_static.pdb')，當做沒有偵錯資訊，連結物件
+  PatlaborT53.vcxproj -> D:\Computer Graphics\Program\Student\Project\Project1\PatlaborT53_superNew_withAutoRun\Release\PatlaborT53.exe
