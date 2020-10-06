@@ -1,0 +1,73 @@
+#pragma once
+#include "Object.h"
+
+static std::string marcoAttack[] =
+{
+	"Dally", "Gun", "Knife"
+};
+enum MAttack {
+	BULLET, PINEAPPLE
+};
+
+class MarcoAttack : public Object {
+public:
+	static float KNIFE_ATTACK_GAP_LEFT;
+	static float KNIFE_ATTACK_GAP_RIGHT;
+	static float BULLET_ATTACK_GAP_X;
+	static float BULLET_ATTACK_GAP_Y;
+	static float GRENADE_ATTACK_GAP_X;
+	static float GRENADE_ATTACK_GAP_Y;
+	static float GRENADE_ATTACK_RANGE;
+
+	MarcoAttack(MAttack, Orientation, float, float);
+	~MarcoAttack();
+
+	bool nextFrame(void);
+
+	// Bullet
+	// Left
+	void bulletFlyLeft(float);
+	// Right
+	void bulletFlyRight(float);
+	// Up
+	void bulletFlyUp(float);
+	// Explosion
+	void bulletExplode(float);
+
+	// Pineapple
+	// Left
+	void pineappleFlyLeft(float);
+	// Right
+	void pineappleFlyRight(float);
+	// Explosion
+	void pineappleExplode(float);
+
+	MAttack attack;
+	Action action;
+	Orientation orient;
+	int serviveTimes;
+
+private:
+	void initSprite(void);
+
+	float pineappleCurveHighUp[8] = { 0.020, 0.019, 0.018, 0.017, 0.016, 0.015, 0.014, 0.013 };
+	float pineappleCurveHighDown[12] = { 0.005, 0.006, 0.008, 0.012, 0.018, 0.026, 0.036, 0.048, 0.062, 0.078, 0.096, 0.116 };
+	float pineappleCurveLowUp[3] = { 0.045, 0.030, 0.015 };
+	float pineappleCurveLowDown[3] = { 0.015, 0.030, 0.045 };
+
+	// Left
+	Sprite2D bulletFlyLeftSprite;
+	Sprite2D pineappleFlyLeftSprite;
+
+	// Right
+	Sprite2D bulletFlyRightSprite;
+	Sprite2D pineappleFlyRightSprite;
+
+	// Up
+	Sprite2D bulletFlyUpSprite;
+
+	// Explosion
+	Sprite2D bulletExplosionSprite;
+	Sprite2D pineappleExplosionSprite;
+};
+

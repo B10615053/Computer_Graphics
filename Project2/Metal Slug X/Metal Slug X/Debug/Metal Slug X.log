@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\marcoattack.h(53): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\marcoattack.h(54): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\marcoattack.h(55): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\marcoattack.h(56): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\enemy.h(27): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\scene.h(4): warning C4005: 'TEX_SIZE_WIDTH': 巨集重複定義
+  d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\marco.h(9): note: 請參閱 'TEX_SIZE_WIDTH' 之前的定義
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(108): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(215): warning C4018: '<': signed/unsigned 不相符
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(216): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(509): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(529): warning C4018: '<': signed/unsigned 不相符
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(879): warning C4129: 'd': 無法辨識的字元逸出序列
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(955): warning C4018: '<': signed/unsigned 不相符
+d:\computer graphics\program\student\project\project2\metal slug x\metal slug x\main.cpp(1087): warning C4018: '<': signed/unsigned 不相符
+  Metal Slug X.vcxproj -> D:\Computer Graphics\Program\Student\Project\Project2\Metal Slug X\Debug\Metal Slug X.exe
